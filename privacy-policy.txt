@@ -1,0 +1,58 @@
+PRIVACY POLICY FOR TEZRUN
+
+Last updated: 14 January 2026
+
+Tezrun is a free mobile game developed for entertainment purposes. This Privacy Policy explains how information is collected, used, and handled when you use the Tezrun application.
+
+INFORMATION COLLECTION AND USE
+
+Tezrun may collect limited information to improve gameplay experience and app performance. The information collected is minimal and non-personal.
+
+The app may collect:
+
+   -Player name entered by the user
+
+   -Gameplay scores and progress
+
+Basic device information required for app functionality and advertisements
+
+ADVERTISING
+
+Tezrun uses Unity Ads to display advertisements. Unity Ads may collect and use certain data in accordance with their own privacy policy.
+
+Unity Ads Privacy Policy:
+https://unity.com/legal/privacy-policy
+
+DATA STORAGE
+
+   -Player name and scores are stored locally on the user’s device.
+
+   -No personal data such as email address, phone number, precise location, or contacts is collected by the developer.
+
+INTERNET USAGE
+
+Internet access is used only for:
+
+   -Displaying advertisements
+
+   -Updating online leaderboard data, if available
+
+CHILDREN’S INFORMATION
+
+Tezrun does not knowingly collect any personally identifiable information from children under the age of 13. If you believe that your child has provided personal information, please contact the developer so it can be removed.
+
+THIRD-PARTY SERVICES
+
+This app may use third-party services that collect information used to identify users. These include:
+
+-Unity Ads
+
+CHANGES TO THIS PRIVACY POLICY
+
+This Privacy Policy may be updated from time to time. Any changes will be reflected on this page. Users are advised to review this policy periodically.
+
+CONTACT INFORMATION
+
+If you have any questions or concerns about this Privacy Policy, you can contact the developer at:
+
+Email: jaizentrot@gmail.com
